@@ -14,13 +14,17 @@
 - Python程式語言介紹
 - 人工智慧、機器學習介紹
 - 基本語法練習
-- 應用練習: open-data, map appliction
+- 應用練習: open-data, map application
+- anaconda環境安裝說明
 
 ----
 
 ## W02
 
 - 建置本地端的開發環境
+    - 以demo01-6 or demo01-2來驗證環境
+    - 安裝模組：pip install
+    - 安裝vscode及使用說明
 - 基本語法練習2
 - csv資訊讀取應用
 - 資料視覺化: matplotlib
